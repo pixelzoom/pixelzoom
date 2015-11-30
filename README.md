@@ -1,4 +1,4 @@
 pixelzoom
 =========
 
-website for pixelzoom.com
+Website for PixelZoom, Inc., visit www.pixelzoom.com.
