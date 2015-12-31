@@ -1,1 +1,1 @@
-Copyright © 1998-2015 PixelZoom, Inc., All Rights Reserved.
+Copyright © 1998-2016 PixelZoom, Inc., All Rights Reserved.
